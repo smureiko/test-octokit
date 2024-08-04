@@ -13,12 +13,6 @@
                 "phone": "+987-654-3213",
                 "first_name": "Alice",
                 "last_name": "Cleaner3"
-            },
-            {
-                "id": "d8a736ab-2a02-40d4-8c47-51557a7edc4d",
-                "phone": "+987-654-3214",
-                "first_name": "Charlie",
-                "last_name": "Cleaner4"
             }
         ],
         "comments": [],
@@ -117,7 +111,7 @@
                             "original_id": "9be00121-fab5-4554-bb34-5be6b024541a"
                         },
                         {
-                            "name": "microwave_cleaning",
+                            "name": "test",
                             "original_id": "adda91a3-9352-43b0-8bac-5e567f6df3b1"
                         },
                         {
@@ -127,10 +121,6 @@
                         {
                             "name": "insoriginal_ide_froriginal_idge_cleaning",
                             "original_id": "c097923a-cc89-43b3-91c9-e8d9af784654"
-                        },
-                        {
-                            "name": "outsoriginal_ide_froriginal_idge_cleaning",
-                            "original_id": "47c5858f-c593-4cfa-acd9-9347805975ce"
                         }
                     ]
                 },
